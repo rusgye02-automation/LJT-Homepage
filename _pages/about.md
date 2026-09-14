@@ -11,6 +11,16 @@ I am a **first-year PhD candidate at the HKUST NLP Group**, advised by **Prof. J
 
 My research focuses on **natural language processing and machine learning**, with a particular interest in building systems and analyses that make large language models more reliable, truthful, and capable of reasoning.
 
+## Selected Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul>
+
+[See all publications →]({{ base_path }}/publications/)
+
 ## Research Interests
 
 - **LLM Reasoning and Reinforcement Learning**
