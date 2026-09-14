@@ -29,9 +29,22 @@ Research Interests
 * Hallucination in Vision-Language Models (VLMs)
 * LLM Truthfulness and Interpretability
 
+Skills
+======
+* **Research Areas:** Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
+* **Research Topics:** LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, Model Interpretability, LLM Truthfulness
+* **Methods:** Data synthesis, inner-representation analysis, evaluation benchmarking, parameter-efficient module composition
+
 Awards
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+Contact
+======
+* **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+* **GitHub:** [Vicent0205](https://github.com/Vicent0205)
+* **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
 
 Publications
 ======
