@@ -11,16 +11,6 @@ I am a **first-year PhD candidate at the HKUST NLP Group**, advised by **Prof. J
 
 My research focuses on **natural language processing and machine learning**, with a particular interest in building systems and analyses that make large language models more reliable, truthful, and capable of reasoning.
 
-## Selected Publications
-
-<ul>
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-</ul>
-
-[See all publications →]({{ base_path }}/publications/)
-
 ## Research Interests
 
 - **LLM Reasoning and Reinforcement Learning**
@@ -43,6 +33,17 @@ My research focuses on **natural language processing and machine learning**, wit
 - **Research Areas:** Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
 - **Topics:** LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, Model Interpretability, Truthfulness
 - **Methods:** Data synthesis, inner-representation analysis, evaluation benchmarking, parameter-efficient module composition
+
+## Publications
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — *First author*, arXiv, 2025
+- **On the Perception Bottleneck of VLMs for Chart Understanding** — *First author*, arXiv, 2025
+- **On the Universal Truthfulness Hyperplane Inside LLMs** — *First author*, EMNLP 2024
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — ICML 2024
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — NeurIPS 2023
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** — NeurIPS 2023
+
+Full publication details, authors, venues, and links are available on the [publications subpage]({{ base_path }}/publications/).
 
 ## Awards
 
